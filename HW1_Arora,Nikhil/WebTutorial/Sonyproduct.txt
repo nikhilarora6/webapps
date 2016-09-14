@@ -1,0 +1,4 @@
+1 USED-playstation1 FirstGeneration 80
+2 USED-playstation1 SecondGeneration 160
+3 NEW-playstation1 ThirdGeneration 200
+4 NEW-playstation1 FourthGeneration 500 

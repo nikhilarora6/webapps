@@ -1,0 +1,3 @@
+1 USED-XboxOriginal firstGeneration 120 
+2 USED-Xbox360 2ndGeneration 230 
+3 NEW-XBoxOne LatestProduct100GB 220 

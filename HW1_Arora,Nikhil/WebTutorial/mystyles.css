@@ -1,0 +1,53 @@
+
+a:hover {
+	font-weight:bold;
+	
+}
+
+.anchorhead{
+	color: #FFFFFF;
+	
+}
+.anchorhead1{
+	color: #FFFFFF;
+	
+}
+.head{
+		
+	 background: #799AC0;
+		color: #FFFFFF;
+ }
+ .head:hover{
+	 background: #4076AB;
+ }
+ 
+ table,th, td{
+	 
+	 border: 1px solid black;
+	 border-collapse: collapse;
+ }
+ 
+ .table2{
+	background: #F78181;
+	
+ }
+	
+ .table2:hover{
+	background:#FA5858;
+	
+ }
+ .table3{
+	 background: #F78181;
+ }
+ .table3:hover{
+	background:#FA5858;
+ }
+ .footer1{
+	
+	color: #FFFFFF;
+ }
+
+ 
+ th,td{
+	 padding:25px;
+ }
